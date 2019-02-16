@@ -29,6 +29,7 @@
     "gatsby-source-filesystem": "^2.0.2",
     "gatsby-transformer-remark": "^2.1.6",
     "gatsby-transformer-sharp": "^2.1.3",
+    "gh-pages": "2.0.1",
     "intersection-observer": "^0.5.1",
     "lodash": "^4.17.11",
     "node-sass": "^4.11.0",
