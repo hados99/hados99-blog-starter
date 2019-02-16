@@ -1,6 +1,6 @@
 module.exports = {
   title: `Hados Blog`,
-  description: `Hados Blog about development, media, my views`, 
+  description: `Hados Blog about development, media, my views`,
   author: `hados`,
   introduction: ``,
   siteUrl: `https://hados99.github.io`, // Your blog site url
@@ -8,7 +8,7 @@ module.exports = {
     twitter: `hados99`, // Your Twitter account
     github: `hados99`, // Your GitHub account
     medium: ``, // Your Medium account
-    facebook: `Doyoung Ha`, // Your Facebook account
+    facebook: `doyoung.ha`, // Your Facebook account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
